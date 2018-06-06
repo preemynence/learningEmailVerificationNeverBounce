@@ -42,7 +42,7 @@ public class NeverBounce {
 				.execute();
 	}
 
-	public Object validateBulkEmail(List<String> emails) {
+	public JobsResultsResponse validateBulkEmail(List<String> emails) {
 
 		JobsCreateWithSuppliedJsonRequest.Builder builder = neverbounceClient
 				.prepareJobsCreateWithSuppliedJsonRequest();
