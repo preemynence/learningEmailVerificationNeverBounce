@@ -17,7 +17,7 @@ import java.util.Arrays;
 public class TestEmailController {
 
 	@Autowired
-	NeverBounce neverBounce;
+	private NeverBounce neverBounce;
 
 	//Get the account information about how much monthly quota is left.
 	//	curl -X GET http://localhost:8080/api/getNeverBounceAccountInfo
