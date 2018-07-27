@@ -1,4 +1,4 @@
-package com.preEmynence.learningEmail.config;
+package com.preemynence.emailvalidator.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -23,7 +23,7 @@ public class SwaggerConfig {
 		return new Docket(DocumentationType.SWAGGER_2)
 				.apiInfo(apiInfo())
 				.select().paths(PathSelectors.any())
-				.apis(RequestHandlerSelectors.basePackage("com.preEmynence"))
+				.apis(RequestHandlerSelectors.basePackage("com.preemynence"))
 				.build()
 				.pathMapping("/")
 				.useDefaultResponseMessages(false)

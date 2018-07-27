@@ -1,4 +1,4 @@
-package com.preEmynence.learningEmail;
+package com.preemynence.emailvalidator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

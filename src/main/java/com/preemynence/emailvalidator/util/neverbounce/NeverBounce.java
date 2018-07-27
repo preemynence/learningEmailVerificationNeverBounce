@@ -1,4 +1,4 @@
-package com.preEmynence.learningEmail.util.neverBounce;
+package com.preemynence.emailvalidator.util.neverbounce;
 
 import com.neverbounce.api.client.NeverbounceClient;
 import com.neverbounce.api.client.NeverbounceClientFactory;

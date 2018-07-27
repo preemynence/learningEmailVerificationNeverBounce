@@ -1,9 +1,9 @@
-package com.preEmynence.learningEmail.restController;
+package com.preemynence.emailvalidator.restController;
 
 import com.neverbounce.api.model.AccountInfoResponse;
 import com.neverbounce.api.model.JobsResultsResponse;
 import com.neverbounce.api.model.SingleCheckResponse;
-import com.preEmynence.learningEmail.util.neverBounce.NeverBounce;
+import com.preemynence.emailvalidator.util.neverbounce.NeverBounce;
 import io.swagger.annotations.ApiParam;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;

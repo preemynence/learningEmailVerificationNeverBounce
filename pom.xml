@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.preEmynence</groupId>
-    <artifactId>learningEmailVerificationNeverBounce</artifactId>
+    <artifactId>emailvalidatorVerificationNeverBounce</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>learningEmail</name>
+    <name>emailvalidator</name>
     <description>Learning project for email verification so that it doesn't bounce.</description>
 
     <parent>

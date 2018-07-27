@@ -1,1 +1,1 @@
-# learningEmailVerificationNeverBounce
+# emailvalidatorVerificationNeverBounce
