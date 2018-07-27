@@ -1,4 +1,4 @@
-package com.preemynence.emailvalidator.restController;
+package com.preemynence.emailvalidator.rest;
 
 import com.neverbounce.api.model.AccountInfoResponse;
 import com.neverbounce.api.model.JobsResultsResponse;

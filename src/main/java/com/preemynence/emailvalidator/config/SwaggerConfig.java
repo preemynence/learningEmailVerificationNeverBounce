@@ -32,7 +32,7 @@ public class SwaggerConfig {
 				;
 	}
 
-	ApiInfo apiInfo() {
+	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
 				.title("Learning Email for Bounce protection application.")
 				.version("1.0.0")
